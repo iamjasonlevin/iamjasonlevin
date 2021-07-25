@@ -2,7 +2,7 @@
 - 👀 I’m interested in wellness-tech, ai, machine learning, and aging.
 - 🌱 I’m currently learning Python via Lambda School.
 - 💞️ I’m looking to collaborate on a cross-country Oura Ring sleep analysis.
-- 📫 How to reach me: @iamjasonlevin on Twitter or via my website www.jasonlevin.io
+- 📫 How to reach me: www.twitter.com/iamjasonlevin or via my website www.jasonlevin.io
 
 <!---
 iamjasonlevin/iamjasonlevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
