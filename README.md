@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamjasonlevin
 - 👀 I’m interested in wellness-tech, ai, machine learning, and aging.
-- 🌱 I’m building [Wellness-Tech Biweekly](https://www.wellnesstech.beehiiv.com)
+- 🌱 I’m building [Wellness-Tech Biweekly](https://wellnesstech.beehiiv.com) and working as a data engineer at American Express
 - 💞️ I’m looking to collaborate on a cross-country Oura Ring sleep analysis.
 - 📫 How to reach me: www.twitter.com/iamjasonlevin or via my website www.jasonlevin.io
 
